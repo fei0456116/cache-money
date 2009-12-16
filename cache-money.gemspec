@@ -27,6 +27,8 @@ Gem::Specification.new do |s|
     "lib/cash/request.rb",
     "lib/cash/transactional.rb",
     "lib/cash/util/array.rb",
+    "lib/cash/util/marshal.rb",
+    "lib/cash/util/active_record.rb",
     "lib/cash/write_through.rb",
     "lib/cache_money.rb"
   ]
