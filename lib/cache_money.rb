@@ -24,6 +24,7 @@ require 'cash/query/calculation'
 
 require 'cash/util/array'
 require 'cash/util/marshal'
+require 'cash/util/active_record'
 
 class ActiveRecord::Base
   def self.is_cached(options = {})
